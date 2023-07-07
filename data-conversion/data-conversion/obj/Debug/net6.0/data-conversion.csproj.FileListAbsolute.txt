@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\bin\Debug\net6.0\data-conversion.exe
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\bin\Debug\net6.0\data-conversion.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\bin\Debug\net6.0\data-conversion.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\bin\Debug\net6.0\data-conversion.dll
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\bin\Debug\net6.0\data-conversion.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\data-conversion.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\data-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\data-conversion.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\data-conversion.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\data-conversion.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\data-conversion.dll
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\refint\data-conversion.dll
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\data-conversion.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\data-conversion.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\data-conversion\data-conversion\obj\Debug\net6.0\ref\data-conversion.dll
