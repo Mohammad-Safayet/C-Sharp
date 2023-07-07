@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\bin\Debug\net6.0\output-formation.exe
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\bin\Debug\net6.0\output-formation.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\bin\Debug\net6.0\output-formation.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\bin\Debug\net6.0\output-formation.dll
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\bin\Debug\net6.0\output-formation.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\output-formation.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\output-formation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\output-formation.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\output-formation.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\output-formation.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\output-formation.dll
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\refint\output-formation.dll
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\output-formation.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\output-formation.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\output-formation\output-formation\obj\Debug\net6.0\ref\output-formation.dll
