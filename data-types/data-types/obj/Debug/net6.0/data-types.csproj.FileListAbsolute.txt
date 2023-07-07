@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\bin\Debug\net6.0\data-types.exe
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\bin\Debug\net6.0\data-types.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\bin\Debug\net6.0\data-types.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\bin\Debug\net6.0\data-types.dll
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\bin\Debug\net6.0\data-types.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\data-types.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\data-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\data-types.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\data-types.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\data-types.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\data-types.dll
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\refint\data-types.dll
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\data-types.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\data-types.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\data-types\data-types\obj\Debug\net6.0\ref\data-types.dll
