@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\bin\Debug\net6.0\loops.exe
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\bin\Debug\net6.0\loops.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\bin\Debug\net6.0\loops.dll
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\bin\Debug\net6.0\loops.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\loops.dll
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\refint\loops.dll
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\loops.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\loops\loops\obj\Debug\net6.0\ref\loops.dll
