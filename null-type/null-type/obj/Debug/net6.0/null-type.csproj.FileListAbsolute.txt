@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\bin\Debug\net6.0\null-type.exe
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\bin\Debug\net6.0\null-type.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\bin\Debug\net6.0\null-type.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\bin\Debug\net6.0\null-type.dll
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\bin\Debug\net6.0\null-type.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\null-type.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\null-type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\null-type.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\null-type.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\null-type.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\null-type.dll
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\refint\null-type.dll
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\null-type.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\null-type.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\null-type\null-type\obj\Debug\net6.0\ref\null-type.dll
