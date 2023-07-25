@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "class-prac-ii/1.0.0": {
+        "runtime": {
+          "class-prac-ii.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "class-prac-ii/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
