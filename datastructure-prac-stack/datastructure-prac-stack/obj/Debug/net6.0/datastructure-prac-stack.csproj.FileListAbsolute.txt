@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\bin\Debug\net6.0\datastructure-prac-stack.exe
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\bin\Debug\net6.0\datastructure-prac-stack.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\bin\Debug\net6.0\datastructure-prac-stack.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\bin\Debug\net6.0\datastructure-prac-stack.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\bin\Debug\net6.0\datastructure-prac-stack.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\datastructure-prac-stack.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\datastructure-prac-stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\datastructure-prac-stack.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\datastructure-prac-stack.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\datastructure-prac-stack.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\datastructure-prac-stack.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\refint\datastructure-prac-stack.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\datastructure-prac-stack.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\datastructure-prac-stack.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-stack\datastructure-prac-stack\obj\Debug\net6.0\ref\datastructure-prac-stack.dll
