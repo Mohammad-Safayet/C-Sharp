@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\bin\Debug\net6.0\interface-prac.exe
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\bin\Debug\net6.0\interface-prac.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\bin\Debug\net6.0\interface-prac.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\bin\Debug\net6.0\interface-prac.dll
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\bin\Debug\net6.0\interface-prac.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\interface-prac.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\interface-prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\interface-prac.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\interface-prac.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\interface-prac.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\interface-prac.dll
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\refint\interface-prac.dll
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\interface-prac.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\interface-prac.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\interface-prac\interface-prac\obj\Debug\net6.0\ref\interface-prac.dll
