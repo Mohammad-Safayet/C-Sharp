@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\bin\Debug\net6.0\datastructure-prac-dictionaries.exe
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\bin\Debug\net6.0\datastructure-prac-dictionaries.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\bin\Debug\net6.0\datastructure-prac-dictionaries.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\bin\Debug\net6.0\datastructure-prac-dictionaries.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\bin\Debug\net6.0\datastructure-prac-dictionaries.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\datastructure-prac-dictionaries.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\datastructure-prac-dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\datastructure-prac-dictionaries.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\datastructure-prac-dictionaries.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\datastructure-prac-dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\datastructure-prac-dictionaries.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\refint\datastructure-prac-dictionaries.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\datastructure-prac-dictionaries.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\datastructure-prac-dictionaries.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-dictionaries\datastructure-prac-dictionaries\obj\Debug\net6.0\ref\datastructure-prac-dictionaries.dll
