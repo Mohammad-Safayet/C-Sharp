@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datastructure-prac-queue", "datastructure-prac-queue\datastructure-prac-queue.csproj", "{58261C4B-1782-41E3-AB32-DABC2CFD974B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58261C4B-1782-41E3-AB32-DABC2CFD974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58261C4B-1782-41E3-AB32-DABC2CFD974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58261C4B-1782-41E3-AB32-DABC2CFD974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58261C4B-1782-41E3-AB32-DABC2CFD974B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B9A631-C9E7-4540-AE12-EBB993F65CD6}
+	EndGlobalSection
+EndGlobal

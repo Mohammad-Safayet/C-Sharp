@@ -1,0 +1,15 @@
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\bin\Debug\net6.0\datastructure-prac-queue.exe
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\bin\Debug\net6.0\datastructure-prac-queue.deps.json
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\bin\Debug\net6.0\datastructure-prac-queue.runtimeconfig.json
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\bin\Debug\net6.0\datastructure-prac-queue.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\bin\Debug\net6.0\datastructure-prac-queue.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\datastructure-prac-queue.csproj.AssemblyReference.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\datastructure-prac-queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\datastructure-prac-queue.AssemblyInfoInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\datastructure-prac-queue.AssemblyInfo.cs
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\datastructure-prac-queue.csproj.CoreCompileInputs.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\datastructure-prac-queue.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\refint\datastructure-prac-queue.dll
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\datastructure-prac-queue.pdb
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\datastructure-prac-queue.genruntimeconfig.cache
+C:\Users\learner\Safayet CSE(Project)\C#\datastructure-prac-queue\datastructure-prac-queue\obj\Debug\net6.0\ref\datastructure-prac-queue.dll
